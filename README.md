@@ -1,92 +1,81 @@
 ![Logo](https://github.com/JashveerSharma/JashveerSharma/blob/main/Screenshot%202024-10-03%20013552.png)
-<h1 align="center" style="font-family: 'Orbitron', sans-serif; color: #00FFAB; font-size: 3rem; letter-spacing: 5px;">
-    Jashveer Sharma<br>
-    B.Tech in Computer Science Engineering (1st Year)<Br>
-    KIIT University, Bhubaneswar, Odisha
+<h1 align="center" style="font-family: 'Poppins', sans-serif; color: #00BFFF; font-size: 3rem;">
+    Hi, I'm Jashveer Sharma! 👋
 </h1>
 
-<p align="center" style="font-family: 'Poppins', sans-serif; color: #E0E0E0; font-size: 1.2rem; background-color: #1E1E1E; padding: 10px; border-radius: 10px; max-width: 80%; margin: 0 auto;">
-    Pioneering innovative solutions for tomorrow's technology. Leveraging cutting-edge <strong>Web3</strong> and <strong>Blockchain</strong> technologies to shape the decentralized future. Explore the intersection of <em>automation</em>, <em>AI</em>, and <em>web development</em> here!
+<p align="center" style="font-family: 'Poppins', sans-serif; color: #555; font-size: 1.2rem;">
+    A passionate first-year Computer Science student, currently a web development trainee at <strong>Pantech.AI</strong>. Exploring the world of <em>web development</em>, learning <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong> while building the foundation for my future in tech!
 </p>
 
 <h2 align="center" style="color: #FF6EC7; font-family: 'Orbitron', sans-serif; font-size: 2rem;">
-    👾 Key Features
+    🔭 About Me
 </h2>
 
-<ul style="color: #A5FFD6; font-family: 'Poppins', sans-serif; font-size: 1.1rem;">
-    <li>🌐 Decentralized Automation using Reactive Smart Contracts</li>
-    <li>💻 Full-Stack Web Development with futuristic UI/UX design</li>
-    <li>🔒 Secure and scalable token approval mechanisms</li>
-    <li>⚡️ Built with cutting-edge JavaScript frameworks & blockchain integration</li>
+<p style="font-family: 'Poppins', sans-serif; color: #333; font-size: 1.1rem;">
+    I am currently pursuing a B.Tech in Computer Science Engineering at KIIT University, Bhubaneswar. As a web development trainee at <strong>Pantech.AI</strong>, I'm diving into the world of coding, honing my skills in frontend development, and learning how to build responsive websites.
+</p>
+
+<h2 align="center" style="color: #FF6EC7; font-family: 'Orbitron', sans-serif; font-size: 2rem;">
+    🛠 Skills I'm Learning
+</h2>
+
+<ul style="color: #4CAF50; font-family: 'Poppins', sans-serif; font-size: 1.1rem;">
+    <li>📄 HTML5</li>
+    <li>🎨 CSS3</li>
+    <li>⚙️ JavaScript (beginner level)</li>
+    <li>💻 Basics of Full-Stack Web Development</li>
 </ul>
 
 <h2 align="center" style="color: #FF6EC7; font-family: 'Orbitron', sans-serif; font-size: 2rem;">
-    📂 Project Structure
+    🌱 Current Learning Journey
 </h2>
 
-<pre style="background-color: #212121; color: #A0F6D2; font-family: 'Poppins', sans-serif; padding: 15px; border-radius: 10px; overflow: auto;">
+<p style="font-family: 'Poppins', sans-serif; color: #333; font-size: 1.1rem;">
+    I'm focused on mastering the basics of web development and am working on small projects like:
+</p>
+<ul style="color: #4CAF50; font-family: 'Poppins', sans-serif; font-size: 1.1rem;">
+    <li>🛠 Portfolio Website</li>
+    <li>🛒 E-commerce Website (in-progress)</li>
+    <li>📱 Clone Web App</li>
+</ul>
+
+<h2 align="center" style="color: #FF6EC7; font-family: 'Orbitron', sans-serif; font-size: 2rem;">
+    📂 Project Structure (for future projects)
+</h2>
+
+<pre style="background-color: #1E1E1E; color: #A0F6D2; font-family: 'Poppins', sans-serif; padding: 15px; border-radius: 10px; overflow: auto;">
 /project-root
     ├── src/
-    │   ├── components/
-    │   ├── contracts/
-    │   └── utils/
-    ├── public/
-    ├── README.md
-    └── package.json
+    │   ├── components/        # React components (when I learn React!)
+    │   ├── styles/            # CSS files for styling
+    │   └── index.html         # Main HTML file
+    ├── README.md              # Project documentation
+    └── package.json           # Dependencies and project scripts
 </pre>
 
 <h2 align="center" style="color: #FF6EC7; font-family: 'Orbitron', sans-serif; font-size: 2rem;">
-    🚀 How to Get Started
+    🚀 Future Goals
 </h2>
 
-<p align="center" style="color: #E0E0E0; font-family: 'Poppins', sans-serif; font-size: 1.2rem; background-color: #1E1E1E; padding: 10px; border-radius: 10px; max-width: 80%; margin: 0 auto;">
-    <strong>Step 1:</strong> Clone the repository <br />
-    <code style="background-color: #212121; padding: 5px 10px; border-radius: 5px; color: #F9F871;">git clone https://github.com/your-repo/futuristic-project.git</code><br /><br />
-    <strong>Step 2:</strong> Install dependencies <br />
-    <code style="background-color: #212121; padding: 5px 10px; border-radius: 5px; color: #F9F871;">npm install</code><br /><br />
-    <strong>Step 3:</strong> Start the development server <br />
-    <code style="background-color: #212121; padding: 5px 10px; border-radius: 5px; color: #F9F871;">npm start</code>
-</p>
+<ul style="color: #4CAF50; font-family: 'Poppins', sans-serif; font-size: 1.1rem;">
+    <li>🌐 Build more projects and improve my web development skills</li>
+    <li>🔧 Learn JavaScript frameworks like React.js</li>
+    <li>📈 Dive into backend development with Node.js</li>
+    <li>🚀 Contribute to open-source projects</li>
+</ul>
 
 <h2 align="center" style="color: #FF6EC7; font-family: 'Orbitron', sans-serif; font-size: 2rem;">
-    🛠 Tech Stack
-</h2>
-
-<p align="center" style="color: #A5FFD6; font-family: 'Poppins', sans-serif; font-size: 1.1rem;">
-    <strong>Frontend:</strong> React.js, HTML5, CSS3 <br />
-    <strong>Backend:</strong> Node.js, Express <br />
-    <strong>Blockchain:</strong> Solidity, Web3.js <br />
-    <strong>Database:</strong> MongoDB
-</p>
-
-<h2 align="center" style="color: #FF6EC7; font-family: 'Orbitron', sans-serif; font-size: 2rem;">
-    🌌 Connect with Me
+    🌌 Let's Connect!
 </h2>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/your-profile" style="color: #00FFAB; text-decoration: none; font-family: 'Poppins', sans-serif; font-size: 1.2rem;">
+    <a href="https://www.linkedin.com/in/jashveer-sharma" style="color: #00BFFF; text-decoration: none; font-family: 'Poppins', sans-serif; font-size: 1.2rem;">
         LinkedIn
     </a> | 
-    <a href="https://twitter.com/your-profile" style="color: #00FFAB; text-decoration: none; font-family: 'Poppins', sans-serif; font-size: 1.2rem;">
-        Twitter
-    </a> | 
-    <a href="https://github.com/your-profile" style="color: #00FFAB; text-decoration: none; font-family: 'Poppins', sans-serif; font-size: 1.2rem;">
+    <a href="https://github.com/jashveer-sharma" style="color: #00BFFF; text-decoration: none; font-family: 'Poppins', sans-serif; font-size: 1.2rem;">
         GitHub
     </a>
 </p>
 
 
-<!--
-**JashveerSharma/JashveerSharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
