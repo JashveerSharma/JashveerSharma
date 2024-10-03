@@ -1,4 +1,4 @@
-![Logo](https://github.com/JashveerSharma/JashveerSharma/blob/main/Screenshot%202024-10-03%20013552.png)
+![Logo](https://github.com/JashveerSharma/JashveerSharma/blob/main/Screenshot%202024-10-03%20221905.png)
 <h1 align="center" style="font-family: 'Poppins', sans-serif; color: #00BFFF; font-size: 3rem;">
     Hi, I'm Jashveer Sharma! 👋
 </h1>
