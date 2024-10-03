@@ -1,4 +1,4 @@
-<img src="https://github.com/JashveerSharma/JashveerSharma/blob/main/Screenshot%202024-10-03%20221905.png"  width="800" length="300">
+<img src="https://github.com/JashveerSharma/JashveerSharma/blob/main/Screenshot%202024-10-03%20221905.png"  width="1000" length="300">
 <h1 align="center" style="font-family: 'Poppins', sans-serif; color: #00BFFF; font-size: 3rem;">
     Hi, I'm Jashveer Sharma! 👋
 </h1>
